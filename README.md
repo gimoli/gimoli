@@ -5,11 +5,11 @@
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanamoura&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanamoura&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
 
-###
 
-<div align="right">
+
+
+
   <img src="https://streak-stats.demolab.com?user=gimoli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
