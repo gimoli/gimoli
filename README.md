@@ -1,18 +1,18 @@
 ## Hello World 👋
 ###
 
-<picture align="right">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gimoli/gimoli/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gimoli/gimoli/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gimoli/gimoli/output/pacman-contribution-graph.svg">
-</picture>
-
 <div align="left">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanamoura&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanamoura&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 <br>
+
+###
+
+<div align="right">
+  <img src="https://streak-stats.demolab.com?user=gimoli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -32,11 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gimoli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
 
@@ -47,6 +42,13 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gimoli/gimoli/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gimoli/gimoli/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gimoli/gimoli/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
