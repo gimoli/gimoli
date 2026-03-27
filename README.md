@@ -3,7 +3,7 @@
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanamoura&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://streak-stats.demolab.com?user=gimoli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150"  width="120" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=gimoli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <div align="left">
