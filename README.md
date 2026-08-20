@@ -2,7 +2,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?gimoli=octocat&theme=radical"/>
+  <img src="https://github-stats-extended.vercel.app/apigimolioctocat&theme=radical"/>
 </div>
 
 <br>
