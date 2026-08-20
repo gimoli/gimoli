@@ -2,7 +2,7 @@
 ###
 
 <div align="center">
-  <img src="(https://github-stats-extended.vercel.app/apigimolianuraghazra)](https://github.com/stats-organization/github-stats-extended)"/>
+  <img src="https://github-stats-extended.vercel.app/apigimolianuraghazra"/>
 </div>
 
 <br>
