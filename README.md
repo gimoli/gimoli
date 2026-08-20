@@ -2,7 +2,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/apigimolioctocat&theme=radical"/>
+  <img src="(https://github-stats-extended.vercel.app/apigimolianuraghazra)](https://github.com/stats-organization/github-stats-extended)"/>
 </div>
 
 <br>
