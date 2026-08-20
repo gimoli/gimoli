@@ -2,8 +2,7 @@
 ###
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-  <img src="https://github-stats-extended.vercel.app/api?=gimolianuraghazra" height="150" alt="streak graph"/>
+  <img src="https://github-stats-extended.vercel.app/api?gimoli=octocat&theme=radical"/>
 </div>
 
 <br>
