@@ -3,6 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gimoli)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gimoli&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gimoli&layout=compact&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
 <br>
 
 <div align="center">
