@@ -1,6 +1,8 @@
 ## Hello World 👋
 ###
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gimoli)](https://github.com/stats-organization/github-stats-extended)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gimoli&show_icons=true&theme=tokyonight" />
 </div>
