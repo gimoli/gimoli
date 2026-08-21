@@ -2,9 +2,9 @@
 ###
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gimoli)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gimoli&layout=compact)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gimoli&layout=compact&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
-<br>
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gimoli&layout=compact&langs_count=6&title_color=ff00d4&text_color=ffffff&border_color=ff00d4&bg_color=120018)
+[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=gimoli&layout=compact&langs_count=5&title_color=ff00d9&text_color=ffffff&border_color=ff00d9&bg_color=120018&border_radius=12)](https://github.com/gimoli)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
