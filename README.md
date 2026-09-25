@@ -20,10 +20,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Most used languages</strong></h3>
       <p align="center">
         <a href="https://github.com/gimoli">
-          <img align="center" width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gimoli&limit=2&layout=compact&langs_count=4&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" width="500px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gimoli&limit=2&layout=compact&langs_count=4&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
