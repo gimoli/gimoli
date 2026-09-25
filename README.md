@@ -1,11 +1,46 @@
-## Hello World 👋
-###
-<div align="center">
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gimoli&layout=compact&langs_count=6&title_color=ff00d4&text_color=ffffff&border_color=ff00d4&bg_color=120018)](https://github.com/stats-organization/github-stats-extended)
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/gimoli">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=gimoli&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/gimoli">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=gimoli&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/gimoli">
+          <img align="center" width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gimoli&limit=2&layout=compact&langs_count=4&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/gimoli">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=gimoli&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gimoli&layout=compact&langs_count=6&title_color=ff00d4&text_color=ffffff&border_color=ff00d4&bg_color=120018)
-</div>
+<!--Contribution Graph-->
+<h2 alig
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
